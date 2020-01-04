@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Ibislinux</title>
+    <link>/</link>
+    <description>Recent content on Blog Ibislinux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>©2020 Ibislinux</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 19:10:49 +0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 04 Jan 2020 19:10:49 +0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Pengenalan Ibislinux Sebagaimana namanya, ibislinux mempunyai sejarah nama dimana diambil dari nama ibis, ibis yaitu nama latin dari burung hantu. Mengapa si yang di ambil burung hantu, bukan burung garuda maupun burung elang yang notabene lebih gagah?
+Burung Hantu merupakan simbol ilmu pengetahuan, kami menggunakan simbol burung hantu (ibis) karena kami semua memang masih belajar, kami semua haus akan ilmu pengetahuan yang memang tidak ada batasnya selain tuhan.
+IbisLinux adalah distribusi GNU / Linux berdasarkan Linux From Scratch, hasil karya dari sebuah ketertarikan pada open-source, dimana pengguna bisa mempelajari dari awal tentang aplikasi yang ada di dalamnya.</description>
+    </item>
+    
+  </channel>
+</rss>
